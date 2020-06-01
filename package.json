@@ -8,7 +8,8 @@
     "type": "git"
   },
   "devDependencies": {
-    "editorconfig-tools": "0.1.1"
+    "editorconfig-tools": "0.1.1",
+    "gulp": "^4.0.2"
   },
   "scripts": {
     "test": "editorconfig-tools check *"
